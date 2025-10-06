@@ -3,7 +3,7 @@
 A smooth, minimal weather app that fetches from the **OpenWeatherMap API** and displays it in gradient-styled cards over a calm, nature-inspired background.  
 The layout highlights a simple **search bar at the top** and **animated forecast cards below**, creating a soft and modern experience.
 
-**Link to project:** (https://weather-api-pi-self.vercel.app/)  
+[Click here to view](https://weather-api-pi-self.vercel.app/)  
 ![screenshot](img/weather.png "Breezy — Weather Made Easy")
 
 ---
